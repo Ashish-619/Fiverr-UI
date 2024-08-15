@@ -1,5 +1,5 @@
 import React from "react";
-import "./GigCard.scss";
+import "./gigCard.scss";
 import { Link } from "react-router-dom";
 
 const GigCard = ({ item }) => {
